@@ -1,6 +1,7 @@
 name: robert
 favicon: null
 layout_spectrum: 0.99792
+typography_spectrum: 0.26736
 cta:
   domain: null
   bucket: null
